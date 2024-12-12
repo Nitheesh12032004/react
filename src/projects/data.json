@@ -1,0 +1,10 @@
+{
+    "Data": [
+    
+        { "id": 1,"profile":"./images/ip1.jpg", "name": "iphone", "ram": "20gb", "price": 1000 },
+    { "id": 2,"profile":"./images/ip1.jpg" , "name": "samsung", "ram": "20gb", "price": 1000 },
+    { "id": 3,"profile":"./images/ip1.jpg", "name": "nothing", "ram": "20gb", "price": 1000 }
+
+    
+    ]
+}
